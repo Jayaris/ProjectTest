@@ -3,7 +3,7 @@
 <suite name="Sign In Suite">
   <test thread-count="5" name="Sign In">
     <classes>
-      <class name="testcase.SignIn"/>
+      <class name="officeoverview.CreateProject"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
